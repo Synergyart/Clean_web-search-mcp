@@ -92,4 +92,7 @@ jspm_packages/
 .fusebox/
 
 # DynamoDB Local files
-.dynamodb/ 
+.dynamodb/
+
+# pnpm
+.pnpm-store/
